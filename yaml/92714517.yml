@@ -1,0 +1,29 @@
+---
+id: 92714517
+name: Big Welcome Labrynth
+type: Trap Card
+frameType: trap
+desc: Special Summon 1 "Labrynth" monster from your hand, Deck, or GY, then return
+  1 monster you control to the hand. You can banish this card from your GY, then target
+  1 Fiend monster you control, or, if you control a Level 8 or higher Fiend monster,
+  you can target 1 card your opponent controls instead; return that card to the hand.
+  You can only use 1 "Big Welcome Labrynth" effect per turn, and only once that turn.
+race: Normal
+archetype: Labrynth
+card_sets:
+- set_name: Photon Hypernova
+  set_code: PHHY-EN077
+  set_rarity: Ultra Rare
+  set_rarity_code: "(UR)"
+  set_price: '0'
+card_images:
+- id: 92714517
+  image_url: https://images.ygoprodeck.com/images/cards/92714517.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/92714517.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/92714517.jpg
+card_prices:
+- cardmarket_price: '21.06'
+  tcgplayer_price: '24.43'
+  ebay_price: '0.00'
+  amazon_price: '0.00'
+  coolstuffinc_price: '13.99'

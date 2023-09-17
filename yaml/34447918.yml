@@ -1,0 +1,30 @@
+---
+id: 34447918
+name: Kashtiratheosis
+type: Spell Card
+frameType: spell
+desc: 'Target 1 "Kashtira" monster you control; Special Summon 1 "Kashtira" monster
+  with a different Attribute from your Deck in Defense Position, also for the rest
+  of this turn after this card resolves, you cannot Special Summon monsters from the
+  Extra Deck, except Xyz Monsters. If this card is banished: You can target 1 of your
+  banished "Kashtira" cards, except "Kashtiratheosis"; add it to your hand. You can
+  only use each effect of "Kashtiratheosis" once per turn.'
+race: Normal
+archetype: Kashtira
+card_sets:
+- set_name: Photon Hypernova
+  set_code: PHHY-EN058
+  set_rarity: Secret Rare
+  set_rarity_code: "(ScR)"
+  set_price: '0'
+card_images:
+- id: 34447918
+  image_url: https://images.ygoprodeck.com/images/cards/34447918.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/34447918.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/34447918.jpg
+card_prices:
+- cardmarket_price: '9.01'
+  tcgplayer_price: '10.26'
+  ebay_price: '0.00'
+  amazon_price: '0.00'
+  coolstuffinc_price: '7.99'

@@ -1,0 +1,43 @@
+---
+id: 24915933
+name: Granguignol the Dusk Dragon
+type: Fusion Monster
+frameType: fusion
+desc: "\"Blazing Cartesia, the Virtuous\" + 1 LIGHT or DARK monster\r\nIf this card
+  is Fusion Summoned: You can send 1 Level 6 or higher LIGHT or DARK monster from
+  your Deck or Extra Deck to the GY. If a monster is Special Summoned by your opponent's
+  activated monster effect (except during the Damage Step): You can banish this card
+  from your field or GY; Special Summon 1 \"Dogmatika\" monster from your Deck or
+  1 \"Despia\" monster from your Extra Deck. You can only use each effect of \"Granguignol
+  the Dusk Dragon\" once per turn."
+atk: 2500
+def: 2500
+level: 8
+race: Spellcaster
+attribute: LIGHT
+card_sets:
+- set_name: Photon Hypernova
+  set_code: PHHY-EN033
+  set_rarity: Starlight Rare
+  set_rarity_code: "(StR)"
+  set_price: '0'
+- set_name: Photon Hypernova
+  set_code: PHHY-EN033
+  set_rarity: Ultra Rare
+  set_rarity_code: "(UR)"
+  set_price: '0'
+card_images:
+- id: 24915933
+  image_url: https://images.ygoprodeck.com/images/cards/24915933.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/24915933.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/24915933.jpg
+- id: 24915933
+  image_url: https://images.ygoprodeck.com/images/cards/24915933.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/24915933.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/24915933.jpg
+card_prices:
+- cardmarket_price: '7.42'
+  tcgplayer_price: '12.98'
+  ebay_price: '0.00'
+  amazon_price: '0.00'
+  coolstuffinc_price: '219.99'

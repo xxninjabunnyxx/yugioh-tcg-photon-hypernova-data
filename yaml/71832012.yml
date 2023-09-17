@@ -1,0 +1,32 @@
+---
+id: 71832012
+name: Pressured Planet Wraitsoth
+type: Spell Card
+frameType: spell
+desc: 'When this card is activated: You can add 1 "Kashtira" monster from your Deck
+  to your hand. Monsters you control gain 100 ATK/DEF for each different Attribute
+  on the field. If a "Kashtira Shangri-Ira" you control activates an effect (except
+  during the Damage Step): You can target 1 card on the field; destroy it. You can
+  only use this effect of "Pressured Planet Wraitsoth" once per turn. You can only
+  activate 1 "Pressured Planet Wraitsoth" per turn.'
+race: Field
+archetype: Kashtira
+card_sets:
+- set_name: Photon Hypernova
+  set_code: PHHY-EN059
+  set_rarity: Secret Rare
+  set_rarity_code: "(ScR)"
+  set_price: '0'
+banlist_info:
+  ban_ocg: Limited
+card_images:
+- id: 71832012
+  image_url: https://images.ygoprodeck.com/images/cards/71832012.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/71832012.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/71832012.jpg
+card_prices:
+- cardmarket_price: '21.55'
+  tcgplayer_price: '24.80'
+  ebay_price: '0.00'
+  amazon_price: '0.00'
+  coolstuffinc_price: '23.99'
